@@ -244,12 +244,15 @@ CipherKey/
 
 ## 1. Clone Repository
 
-git clone https://github.com/yourusername/CipherKey.git
-2. Navigate to Source Folder
+git clone https://github.com/CipherKEY---Password-Security-Analysis-Strong-Password-Generator.git
+
+## 2. Navigate to Source Folder
 cd CipherKey/src
-3. Compile
+
+## 3. Compile
 gcc main.c password_checker.c password_generator.c entropy_calculator.c crack_time_estimator.c common_password_checker.c password_analyzer.c password_input.c keyboard_pattern_checker.c strength_meter.c report_exporter.c -o CipherKey -lm
-4. Run
+
+## 4. Run
 
 Windows:
 
@@ -258,13 +261,15 @@ CipherKey.exe
 Linux:
 
 ./CipherKey
+
 🖥️ Demo
 
-(Add screenshots here)
+<img width="630" height="265" alt="menu" src="https://github.com/user-attachments/assets/1ceb2499-1b52-4b43-ad8f-0d3de0afc170" />
+
 
 Example:
 
-![CipherKey Analysis](screenshots/report.png)
+![CipherKey Analysis](screenshots/menu.png)
 
 Recommended screenshots:
 
@@ -284,6 +289,8 @@ Secure password generation
 Input validation
 Security scoring
 File-based security rules
+
+
 🎯 Future Improvements
 
 Planned features:
@@ -294,13 +301,15 @@ Planned features:
  Advanced password policy rules
  Hash strength analysis
  Multi-language support
+ 
 👨💻 Author
 
-Chethana
+Chethana Navin Disanayaka
 
 Cyber Security Undergraduate
 
 Sri Lanka Institute of Information Technology (SLIIT)
+
 
 📌 Disclaimer
 
@@ -309,5 +318,6 @@ CipherKey is an educational cybersecurity project created for learning purposes.
 It does not replace professional password auditing tools.
 
 Always follow responsible security practices.
+
 
 ⭐ If you find this project useful, consider giving it a star!
