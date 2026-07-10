@@ -244,7 +244,6 @@ CipherKey/
 
 ## 1. Clone Repository
 
-```bash
 git clone https://github.com/yourusername/CipherKey.git
 2. Navigate to Source Folder
 cd CipherKey/src
@@ -295,7 +294,7 @@ Planned features:
  Advanced password policy rules
  Hash strength analysis
  Multi-language support
-👨‍💻 Author
+👨💻 Author
 
 Chethana
 
