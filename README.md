@@ -254,13 +254,9 @@ gcc main.c password_checker.c password_generator.c entropy_calculator.c crack_ti
 
 ## 4. Run
 
-Windows:
+Windows:  CipherKey.exe
 
-CipherKey.exe
-
-Linux:
-
-./CipherKey
+Linux:  ./CipherKey
 
 🖥️ Demo
 
@@ -269,40 +265,35 @@ Linux:
 
 Example:
 
-![CipherKey Analysis](screenshots/menu.png)
+![CipherKey Analysis](screenshots/analyze_password.png)
 
-Recommended screenshots:
-
-Main menu
-Password analysis result
-Password generator
-Exported report
-🔐 Security Concepts Demonstrated
+# 🔐 Security Concepts Demonstrated
 
 This project covers:
 
-Password security principles
-Brute-force attack estimation
-Dictionary attacks
-Password entropy
-Secure password generation
-Input validation
-Security scoring
-File-based security rules
+- Password security principles
+- Brute-force attack estimation
+- Dictionary attacks
+- Password entropy
+- Secure password generation
+- Input validation
+- Security scoring
+- File-based security rules
 
 
-🎯 Future Improvements
+# 🎯 Future Improvements
 
 Planned features:
 
- Password breach checking using APIs
- GUI version using C graphics library
- Cross-platform password masking
- Advanced password policy rules
- Hash strength analysis
- Multi-language support
+ - Password breach checking using APIs
+ - GUI version using C graphics library
+ - Cross-platform password masking
+ - Advanced password policy rules
+ - Hash strength analysis
+ - Multi-language support
+
  
-👨💻 Author
+# 👨💻 Author
 
 Chethana Navin Disanayaka
 
@@ -311,7 +302,7 @@ Cyber Security Undergraduate
 Sri Lanka Institute of Information Technology (SLIIT)
 
 
-📌 Disclaimer
+# 📌 Disclaimer
 
 CipherKey is an educational cybersecurity project created for learning purposes.
 
@@ -320,4 +311,4 @@ It does not replace professional password auditing tools.
 Always follow responsible security practices.
 
 
-⭐ If you find this project useful, consider giving it a star!
+# ⭐ If you find this project useful, consider giving it a star!
